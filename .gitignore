@@ -1,0 +1,4 @@
+node_modules
+_mongo_data_
+build
+.env
